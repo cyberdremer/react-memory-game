@@ -1,0 +1,7 @@
+main {
+    flex: 1 0 auto;
+    display: grid;
+    margin: 1rem;
+    gap: 3rem;
+    grid-template-columns: repeat(auto-fit, 300px);
+}

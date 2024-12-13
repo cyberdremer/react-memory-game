@@ -1,0 +1,23 @@
+header {
+    font-family: cyber-punk;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-scoreboard{
+    margin-right: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header-scoreboard span {
+    text-align: start;
+}
+
+.header-scoreboard .header-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
